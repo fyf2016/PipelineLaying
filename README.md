@@ -5,5 +5,3 @@
 
 [![GitHub license](https://img.shields.io/github/license/fyf2016/PipelineLaying.svg)](https://github.com/fyf2016/PipelineLaying/blob/master/LICENSE) [![Download](https://img.shields.io/badge/downloads-master-orange.svg)](https://codeload.github.com/fyf2016/PipelineLaying/zip/master)
 
-
-[![Download](https://img.shields.io/badge/downloads-master-green.svg)](https://codeload.github.com/blinkfox/hexo-theme-matery/zip/master)
