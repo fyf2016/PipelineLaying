@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app PUBLIC "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN" "http://java.sun.com/dtd/web-app_2_3.dtd">
+<web-app>
+  <servlet>
+    <servlet-name>MapProduce</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>test.MapProduce</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ShowMsgServlet</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>com.view.ShowMsgServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ShowPrimeServlet</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>com.view.ShowPrimeServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ShowKruskalServlet</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>com.view.ShowKruskalServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>ShowMapServlet</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>com.view.ShowMapServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>OutputDataServlet</servlet-name>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <description>This is the description of my J2EE component</description>
+    <servlet-class>com.view.OutputDataServlet</servlet-class>
+  </servlet>
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>MapProduce</servlet-name>
+    <url-pattern>/MapProduce</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShowMsgServlet</servlet-name>
+    <url-pattern>/ShowMsgServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShowPrimeServlet</servlet-name>
+    <url-pattern>/ShowPrimeServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShowKruskalServlet</servlet-name>
+    <url-pattern>/ShowKruskalServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ShowMapServlet</servlet-name>
+    <url-pattern>/ShowMapServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>OutputDataServlet</servlet-name>
+    <url-pattern>/OutputDataServlet</url-pattern>
+  </servlet-mapping>
+
+</web-app>
