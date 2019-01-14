@@ -18,14 +18,19 @@
 - 可动态的添加或删除途经的建筑(节点)。
 
 ## 项目主要界面展示
-
+ >首页
+ 
 ![首页](https://fyf2016.github.io/images/project/arithmetic/index.png)
+>节点信息展示
 
 ![节点信息展示](https://fyf2016.github.io/images/project/arithmetic/nodeMsg.png)
+>Prime算法界面
 
 ![Prime算法界面](https://fyf2016.github.io/images/project/arithmetic/prime.png)
+>Kruskal算法界面
 
 ![Kruskal算法界面](https://fyf2016.github.io/images/project/arithmetic/kruskal.png)
+>最终生成的路线图
 
 ![最终生成的路线图](https://fyf2016.github.io/images/project/arithmetic/map.png)
 
