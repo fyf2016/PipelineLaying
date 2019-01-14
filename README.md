@@ -19,15 +19,16 @@
 
 ## 项目主要界面展示
 
-![首页](https://fyf2016.github.io/images/project/back1.png)
+![首页](https://fyf2016.github.io/images/project/arithmetic/index.png)
 
-![首页推荐文章](http://static.blinkfox.com/matery-20181202-2.png)
+![节点信息展示](https://fyf2016.github.io/images/project/arithmetic/nodeMsg.png)
 
-![首页文章列表](http://static.blinkfox.com/matery-20181202-3.png)
+![Prime算法界面](https://fyf2016.github.io/images/project/arithmetic/prime.png)
 
-![首页文章列表](http://static.blinkfox.com/matery-20181202-7.png)
+![Kruskal算法界面](https://fyf2016.github.io/images/project/arithmetic/kruskal.png)
 
-![首页文章列表](http://static.blinkfox.com/matery-20181202-8.png)
+![最终生成的路线图](https://fyf2016.github.io/images/project/arithmetic/map.png)
+
 
 
 
