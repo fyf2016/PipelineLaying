@@ -35,8 +35,8 @@
 ![最终生成的路线图](https://fyf2016.github.io/images/project/arithmetic/map.png)
 
 ## 视频演示地址
-> bilibili地址: https://www.bilibili.com/video/av40697433/
-> 腾讯云对象存储COS视频地址: https://video-1254265973.cos.ap-beijing.myqcloud.com/arithmetic.mp4
+> [bilibili上演示地址](https://www.bilibili.com/video/av40697433/)
+> [腾讯云对象存储COS视频地址](https://video-1254265973.cos.ap-beijing.myqcloud.com/arithmetic.mp4)
 
 
 
