@@ -40,24 +40,29 @@
 > [腾讯云对象存储COS视频地址](https://video-1254265973.cos.ap-beijing.myqcloud.com/arithmetic.mp4)
 
 ## 项目配置
-> 1. 矩阵文件格式
+>1. 矩阵文件格式
 
-矩阵文件的格式应为N*2矩阵, 形式如 AB 150 。 A, B 为结点的编号, 150为两结点结点间的距离。
+矩阵文件的格式应为N*2矩阵, 形式如 AB 150 。A, B 为结点的编号, 150为两结点结点间的距离。
 详细配置可参照项目中的ReadDatas.txt和ReadDatas3.txt。
 
- > 2. 读入文件路径的设置
+ >2. 读入文件路径的设置
  
 读入文件的路径设置在 PipeLineLaying/src/com/dao/impl/ReadDataDAOImpl.java 里面修改,
 修改位置为下图标红线的地方:
+
+-------------------------------------------------------------------------------------
+
 ![读入文件路径的设置](https://fyf2016.github.io/images/project/arithmetic/readPath.png)
 
-> 3. 输出文件路径的设置
+-------------------------------------------------------------------------------------
+
+>3. 输出文件路径的设置
 
 输出最终结果的路径设置在 PipeLineLaying/src/com/dao/impl/OutputDataDAOImpl.java 里面修改,
 修改位置为下图标红线的地方:
 ![输出文件路径的设置](https://fyf2016.github.io/images/project/arithmetic/outputPath.png)
 
-> 4. 数据库配置
+>4. 数据库配置
 
 (1) 数据库连接信息可在项目下的 src/jdbc.properties 文件中修改,
     下图标红线的位置对应的是 自己数据库的名字(类型为Mysql数据库)。
